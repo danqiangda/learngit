@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <cctype>
 using namespace std;
 int main()
 {
