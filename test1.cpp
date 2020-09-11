@@ -1,10 +1,9 @@
 #include <iostream>
-#include <vector>
-#include <string>
+#include <algorithm>
 using namespace std;
 int main()
 {
-    cout<<"hellokity";
+    std::cout << "Hello world" << std::endl;
     return 0;
 }
 
